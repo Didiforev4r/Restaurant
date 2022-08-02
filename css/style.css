@@ -226,6 +226,15 @@ a {
     justify-self: center;
 }
 
+@media(max-width:415px) {
+    .pause {
+        display: none;
+    }
+    .order {
+        padding-bottom: 55px;
+    }
+}
+
 .pause:hover {
     cursor: pointer;
 }
