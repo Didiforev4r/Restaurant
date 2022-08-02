@@ -231,7 +231,9 @@ a {
         display: none;
     }
     .order {
-        padding-bottom: 55px;
+       padding-top: 80px;
+        padding-bottom: 40px;
+        background-position: right;
     }
 }
 
